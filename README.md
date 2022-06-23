@@ -1,2 +1,5 @@
-# Entradas_Saidas
-Exercício do módulo 1, disciplina de Laboratório 1 - Graduação Análise e Desenvolvimento de Sistemas
+# Conceitos Básicos de Programação Java
+
+* Compreender os conceitos básicos, necessários a alguém que está iniciando o aprendizado da programação de computadores
+* Compreender o funcionamento dos principais comandos básicos das linguagens de programação de alto nível
+* Escrever trechos de programas com os comandos de entrada, saída e atribuição
