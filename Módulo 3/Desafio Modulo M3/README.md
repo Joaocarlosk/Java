@@ -1,6 +1,7 @@
-Descrição da Tarefa
+# Descrição da Tarefa
 
-A primeira atividade da equipe de desenvolvimento está especificada nas instruções abaixo:
+# A primeira atividade da equipe de desenvolvimento está especificada nas instruções abaixo:
+
 1.	Crie um novo projeto, chamado: Desafio_Modulo_3
 2.	Crie a classe: Cidade com os seguintes atributos:
 *	Código = tipo de dados número inteiro
