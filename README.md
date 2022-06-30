@@ -11,3 +11,9 @@
 * Modelar, em UML, os diagramas de classes e objetos de classes que se relacionam, via associação
 * Produzir um exemplo de associação
 * Compreender o enunciado de um problema proposto e produzir os diagramas e o programa orientado a objetos que leve à solução do problema em questão
+
+# Módulo 3 - Estruturas de Seleção
+
+* Compreender a execução de um programa orientado a objetos em java
+* Compreender a aplicação prática de todos os conceitos
+* Compreender as estruturas de seleção
