@@ -17,3 +17,9 @@
 * Compreender a execução de um programa orientado a objetos em java
 * Compreender a aplicação prática de todos os conceitos
 * Compreender as estruturas de seleção
+
+# Módulo 4 - Estruturas de Repetição 
+
+* Aplicação e aperfeiçoamento da compreensão das estruturas de seleção
+* Compreender e usar as estruturas de repetição
+* Aplicação das estruturas de repetição e seleção, em um mesmo algoritmo
