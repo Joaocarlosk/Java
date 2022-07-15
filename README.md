@@ -23,3 +23,8 @@
 * Aplicação e aperfeiçoamento da compreensão das estruturas de seleção
 * Compreender e usar as estruturas de repetição
 * Aplicação das estruturas de repetição e seleção, em um mesmo algoritmo
+
+# Módulo 5 - Herança e Polimorfismo
+
+* Compreender e aplicar herança
+* Compreender e aplicar polimorfismo
