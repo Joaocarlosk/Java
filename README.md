@@ -35,5 +35,3 @@
 * Compreender e usar arrays simples
 * Compreender e usar arrays de objetos
 * Aplicar arrays simples e arrays de objetos
-
-.
